@@ -5,3 +5,32 @@
 .drop-color {
   color: rgb(143, 142, 142)
 }
+
+body {
+  color: rgb(143, 142, 142)
+}
+
+#intro-bg {
+  background: url(./images/pawel-czerwinski-turq-purp.jpg) no-repeat center fixed;
+  background-size: cover;
+  height: 600px;
+}
+
+.intro {
+  color:rgb(143, 142, 142);
+}
+
+#flash {
+  animation: flash 4s linear 2s;
+}
+
+@keyframes flash {
+  10% {
+    opacity: 0.1;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+  
+    

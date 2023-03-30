@@ -33,4 +33,9 @@ body {
   }
 }
   
-    
+.bg-pic {
+  background-image: url(./images/artur-tumasjan-skeleton.jpg);
+  background-position: center;
+  background-size: cover;
+  max-width: 250px;
+}

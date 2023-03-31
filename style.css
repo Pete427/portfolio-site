@@ -51,3 +51,8 @@ body {
   background-size: cover;
 }
 
+#contact-bg {
+  height: auto;
+  background-color: black;
+}
+

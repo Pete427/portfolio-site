@@ -11,7 +11,7 @@ body {
 }
 
 #intro-bg {
-  background: url(./images/pawel-czerwinski-turq-purp.jpg) no-repeat center fixed;
+  background: url(./images/pawel-czerwinski-new-turq-purp.jpg) no-repeat center fixed;
   background-size: cover;
   height: 600px;
 }
@@ -32,4 +32,22 @@ body {
     opacity: 1;
   }
 }
-  
+
+#projects-bg {
+  background: url(./images/ethan-hoover-old-bulb-projects.jpg) no-repeat center fixed;
+  background-size: cover;
+  height: auto;
+}
+
+
+.img-wrap {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.project-img {
+  padding-top: calc(2 / 3 * 100%);
+  background-position: center;
+  background-size: cover;
+}
+
